@@ -4,7 +4,7 @@ def inicializar():
 		linha = [ ]
 		for j in range(3):
 			linha.ap pend("X")
-		tab.ap pend(linha)
+                tab.ap pend(linha)
 	return tab
 
 def main( ):
